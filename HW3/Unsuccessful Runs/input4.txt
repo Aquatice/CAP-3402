@@ -1,0 +1,5 @@
+var;
+begin
+    y := 3; /* Comment */
+    x := y + 56;
+end.
